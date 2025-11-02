@@ -1,0 +1,11 @@
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\bin\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.deps.json
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\bin\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.dll
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\bin\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.pdb
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\obj\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\obj\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\obj\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\obj\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\obj\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.dll
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\obj\Debug\net9.0\refint\Lab10-AlberthMayta.Infrastructure.dll
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\obj\Debug\net9.0\Lab10-AlberthMayta.Infrastructure.pdb
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab10-AlberthMayta.Infrastructure\obj\Debug\net9.0\ref\Lab10-AlberthMayta.Infrastructure.dll

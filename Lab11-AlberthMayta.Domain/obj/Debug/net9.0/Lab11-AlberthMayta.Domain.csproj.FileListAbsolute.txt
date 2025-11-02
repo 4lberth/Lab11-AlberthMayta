@@ -1,0 +1,11 @@
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\bin\Debug\net9.0\Lab11-AlberthMayta.Domain.deps.json
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\bin\Debug\net9.0\Lab11-AlberthMayta.Domain.dll
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\bin\Debug\net9.0\Lab11-AlberthMayta.Domain.pdb
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\obj\Debug\net9.0\Lab11-AlberthMayta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\obj\Debug\net9.0\Lab11-AlberthMayta.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\obj\Debug\net9.0\Lab11-AlberthMayta.Domain.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\obj\Debug\net9.0\Lab11-AlberthMayta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\obj\Debug\net9.0\Lab11-AlberthMayta.Domain.dll
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\obj\Debug\net9.0\refint\Lab11-AlberthMayta.Domain.dll
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\obj\Debug\net9.0\Lab11-AlberthMayta.Domain.pdb
+C:\Users\Usuario\RiderProjects\Lab11-AlberthMayta\Lab11-AlberthMayta.Domain\obj\Debug\net9.0\ref\Lab11-AlberthMayta.Domain.dll
